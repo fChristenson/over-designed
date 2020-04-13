@@ -1,11 +1,10 @@
-# React demo
+# Over designed
 
 ## What we will cover
 
-- 1
-- 2
-- 3
+- What can happen when developers just say "yes"
+- Why it is important to have more than one voice in a team
 
 ## Notes
 
-Some notes
+In this video I will share a short story from work.
