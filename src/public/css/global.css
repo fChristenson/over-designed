@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: steelblue;
+  color: white;
+  padding: 8px;
+}
+
+.edit {
+  display: flex;
+}
+
+.edit-field {
+  margin-right: 64px;
+  display: flex;
+  align-items: center;
+}
+
+.edit-field__name {
+  margin-right: 16px;
+}
